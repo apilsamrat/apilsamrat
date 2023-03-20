@@ -54,3 +54,8 @@ Instagram
 <a href="https://www.apilpoudel.com.np">
  🔗 apilpoudel.com.np 
 </a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/apilsamrat/count.svg" />
+</p>
