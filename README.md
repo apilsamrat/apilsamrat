@@ -4,7 +4,7 @@
 </p>
 
 <h3>** About Me **</h3>
-I'm a 20-year-old tech enthusiast who is passionate about learning new things and building software applications. I'm a self-taught developer with experience in Digital Marketing | Android, web, and desktop development.
+I'm a 21-year-old tech enthusiast passionate about learning new things and building software applications. I'm a self-taught developer with experience in Digital Marketing | Android, web, and desktop development.
 
 <br>
 <br>
